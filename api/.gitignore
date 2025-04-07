@@ -1,0 +1,8 @@
+.env
+node_modules
+dist
+layer
+*.zip
+.DS_Store
+.serverless
+.terraform
